@@ -3,4 +3,5 @@ final perfect one
 `````````````
 To do
 - menu
-  -
+  - play button
+  - skill menu
