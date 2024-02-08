@@ -19,4 +19,11 @@ To do
     -[]big/small ball
     -[]fake ball
     -[]slow ball/fastball
-    -[]
+    -[]some walls
+  -[]secrets
+    -[]boss fights
+      -[]xeroc
+      -[]auditor
+      -
+    -[]secret modes
+    
